@@ -1,5 +1,5 @@
 #Marvel App
-#With React Native,Expo Styles Components 
+#With React Native,Expo Styled Components 
 #With Marvel API
 
  
