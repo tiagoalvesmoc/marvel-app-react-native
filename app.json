@@ -1,11 +1,16 @@
 {
   "expo": {
     "name": "marvel-app",
-    "slug": "marvel-app",
+    "slug": "wheather-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+        "splash": {
+  "image": "./src/assets/img/splash.png",
+  "backgroundColor": "#fff",
+  "resizeMode": "cover"
+}
   },
   "name": "marvel-app"
 }
